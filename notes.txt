@@ -1,0 +1,4 @@
+avr2LCD.py -- how to handle the QString output of the Spinbox and pass it to the avr code
+
+
+How many threads??? :S
